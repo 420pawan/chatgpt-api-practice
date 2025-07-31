@@ -1,6 +1,6 @@
 # ChatGPT API Basics
 
-I, **Pawan Kumar Mishra**, have customized and extended this project as part of my learning and development journey in AI and software engineering.
+I, **Pawan Kumar Mishra**, have made  this project as part of my learning and development journey in AI and software engineering.
 
 ---
 
