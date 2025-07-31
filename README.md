@@ -1,7 +1,5 @@
 # ChatGPT API Basics
 
-This repository is a personalized adaptation of the [ChatGPT API Basics](https://github.com/Sentdex/ChatGPT-API-Basics) project originally created by Sentdex. 
-
 I, **Pawan Kumar Mishra**, have customized and extended this project as part of my learning and development journey in AI and software engineering.
 
 ---
